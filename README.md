@@ -4,3 +4,5 @@ These are generic pricing classes that I created in ABAP, to find the given pric
 
 I created these generic pricing classes to when encountering the same exact problem:
 https://community.sap.com/t5/application-development-discussions/find-a-tables-for-a-particular-condition-type/m-p/7239344#M1526066
+
+I have attached the above forum conversation as a PDF labeled Solved in this repository
